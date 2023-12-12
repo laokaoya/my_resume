@@ -15,7 +15,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-gitee-fill-round:before {
+.icon-website-fill-round:before {
   content: "\e628";
 }
 
@@ -31,7 +31,7 @@
   content: "\ea17";
 }
 
-.icon-zhihu-circle-fill:before {
+.icon-kaggle-circle-fill:before {
   content: "\ec0c";
 }
 
