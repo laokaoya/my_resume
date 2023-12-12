@@ -102,10 +102,12 @@ section.contact {
 }
 /* body */
 .content-bd {
-  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
   color: #444;
   overflow: hidden;
 }
+
 .content-bd .iconfont {
   color: #00c9b8;
 }
@@ -114,12 +116,8 @@ section.contact {
   padding: 0 20px;
   width: 50%;
 }
-.content-bd .content-left {
-  float: left;
-}
-.content-bd .content-right {
-  float: right;
-}
+
+
 .content-bd .section-content {
   line-height: 28px;
   color: #777;
